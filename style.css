@@ -12,6 +12,9 @@
 body[page=lista] #listaRegistros {
   display: block;  
 }
+body[page=lista] footer {
+  display: none
+}
 body[page=cadastro] #cadastroRegistros {
   display: flex;
   width: 400px;
