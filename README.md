@@ -3,7 +3,7 @@ Projeto do segundo désafio
 
 Gestão de Cadastros 
 
-Na imagem abaixo temos O nome do cliente, produto, endereço e o celular.
+Na imagem abaixo temos nome do cliente, produto, endereço e o celular.
 
 ![image](https://user-images.githubusercontent.com/65052292/126894779-9a67479f-761e-4d26-9dfb-9d8b99b69d4c.png)
 
